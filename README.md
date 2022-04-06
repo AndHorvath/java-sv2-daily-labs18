@@ -1,1 +1,1 @@
-# java-sv2-daily-labs18
+A Struktúraváltás 2.0 tananyaghoz tartozó konzultációkon kiadott 18. heti feladataim.
